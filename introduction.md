@@ -12,36 +12,33 @@ rapport avec les documents se trouvent à la suite des références intéressant
 Le plan de classement suit le schéma suivant : 
 
 * Qu'est ce qu'une imprimante 3D ?
-   * *Le document n°1,6,7
-
-
+   * *Le document n°1,6,7,8,9,11*
 
 
 * Qui a crée l'imprimante 3D ?
-  * *Le document n°3
+  * *Le document n°3*
   
   
-  
-* Comment ça fonctionne ?
-  * *Le document n°1,6,7
+ * Comment ça fonctionne ?
+  * *Le document n°1,6,7,8,9,11*
   
 * Quels matériaux utilisés ?  
-  * *Le document n°2,4,5
+  * *Le document n°2,4,5*
   
 * Les trois techniques de base d'impression 
     * Par addition de dépot de matière
-      *le document n°1,4
+      *le document n°1,4*
     
     * Par stéréolithographie (séchage à la lumière)
-      *Le document n°1
+      *Le document n°1,10*
     
     * Par Impression sur poudre
-      *Le document n°1,5
+      *Le document n°1,5*
     
 * utilité d'une enceinte fermée ?    
-   * *Le document n°12*
+   * *Le document n°11*
 * Quel programme utilisé ?
-   * *Le document n°13,6*
+   * *Le document n°6,12*
     
 # Explication du plan 
 
