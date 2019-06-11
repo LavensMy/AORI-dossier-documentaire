@@ -13,8 +13,7 @@ Le plan de classement suit le schéma suivant :
 
 * Qu'est ce qu'une imprimante 3D ?
    * *Le document n°1,6,7,8,9,11*
-
-
+   
 * Qui a crée l'imprimante 3D ?
    * *Le document n°3*
   
