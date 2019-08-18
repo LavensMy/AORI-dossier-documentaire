@@ -4,8 +4,7 @@
 Suite à un travail de recherche documentaire, j'ai du créer un dossier documentaire, sur le thême des imprimantes 3D, choisir les documents qui sont utiles à la compréhension de ces imprimantes, leurs utilisations, leurs besoins matériels, leurs fonctionnements. 
 
 
-J'ai essayer de trouver au moins un livre, pour ceux qui ont une préférences pour un document achetables à garder à porter de main chez soi. Les explications en
-rapport avec les documents se trouvent à la suite des références intéressantes, vous pouvez donc trouver les informations dans le plan de classement, avant de faire votre choix
+J'ai essayer de trouver au moins un livre, pour ceux qui ont une préférences pour un document achetable à garder à porter de main chez soi. Les explications en rapport avec les documents se trouvent à la suite des références intéressantes, vous pouvez donc trouver les informations dans le plan de classement, avant de faire votre choix.
 
 # Corpus :
 
@@ -39,8 +38,18 @@ Le plan de classement suit le schéma suivant :
     
 * utilité d'une enceinte fermée ?    
    * *Le document n°11*
+   
 * Quel programme utilisé ?
    * *Le document n°6,12*
+   
+* Dans quels domaines utilise t-on les imprimantes 3D ?
+   * *Le document n°13,14,15,16,17,18,19,20*
+   
+*Impression 3D: points positifs-points négatifs ?
+   * *Le document n°21,22*
+   
+*Impression 3D: Quels sont les dangers ?
+   * *Le document n°23,24,25*
     
 # Explication du plan 
 
